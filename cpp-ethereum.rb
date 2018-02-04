@@ -95,3 +95,4 @@ class CppEthereum < Formula
     EOS
   end
 end
+end
